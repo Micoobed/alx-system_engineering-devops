@@ -1,2 +1,2 @@
 #!/bin/bash
-file -m school.mgc data.dat
+echo 0 string SCHOOL > school.mgc
